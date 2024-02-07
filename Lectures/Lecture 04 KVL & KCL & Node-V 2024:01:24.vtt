@@ -1,0 +1,1581 @@
+WEBVTT
+
+1 "" (0)
+00:00:00.000 --> 00:00:02.723
+I.
+
+2 "Gokirmak, Ali" (3436017152)
+00:00:02.723 --> 00:00:06.600
+The water supply is like a battery.
+
+3 "Gokirmak, Ali" (3436017152)
+00:00:06.600 --> 00:00:12.389
+It gives you a voltage difference between the 2 terminals.
+
+4 "Gokirmak, Ali" (3436017152)
+00:00:12.389 --> 00:00:16.919
+And because it said cartoon growing, it has infinite powers.
+
+5 "Gokirmak, Ali" (3436017152)
+00:00:16.919 --> 00:00:20.460
+It can provide infinite current positive or negative.
+
+6 "Gokirmak, Ali" (3436017152)
+00:00:20.460 --> 00:00:27.480
+But it can also provide 0 current. It all depends on what the circuit wants.
+
+7 "Gokirmak, Ali" (3436017152)
+00:00:27.480 --> 00:00:35.280
+Register we discussed earlier the current and voltage relate to each other through owns law.
+
+8 "Gokirmak, Ali" (3436017152)
+00:00:35.280 --> 00:00:39.660
+So, again, we are assuming that we are operating the resistor in a reasonable.
+
+9 "Gokirmak, Ali" (3436017152)
+00:00:39.660 --> 00:00:47.370
+Voltage range and current range because if you go crazy, it voltage and current some resistance. They will start hitting up melting down.
+
+10 "Gokirmak, Ali" (3436017152)
+00:00:47.370 --> 00:00:52.980
+You know, breaking up, so resistance will change as a function of temperature.
+
+11 "Gokirmak, Ali" (3436017152)
+00:00:52.980 --> 00:00:59.430
+But right now we are, assuming that they are going to behave linearly, because we are going to be reasonable.
+
+12 "Gokirmak, Ali" (3436017152)
+00:00:59.430 --> 00:01:04.980
+Okay, so Delta we equals to it is the voltage difference. You have to keep that in mind.
+
+13 "Gokirmak, Ali" (3436017152)
+00:01:04.980 --> 00:01:09.150
+It is not the absolute voltage. It is. The difference between 2 terminals.
+
+14 "Gokirmak, Ali" (3436017152)
+00:01:09.150 --> 00:01:12.870
+Okay, the voltage between the 2 terminals.
+
+15 "Gokirmak, Ali" (3436017152)
+00:01:12.870 --> 00:01:20.820
+We started using the operation amplifiers in the lab as I mentioned it to you. This is a 5 terminal device.
+
+16 "Gokirmak, Ali" (3436017152)
+00:01:20.820 --> 00:01:28.380
+Operation amplifier.
+
+17 "Gokirmak, Ali" (3436017152)
+00:01:28.380 --> 00:01:33.510
+The lines around the operation amplifier are not circuit drawings.
+
+18 "Gokirmak, Ali" (3436017152)
+00:01:33.510 --> 00:01:37.560
+You know, when I'm driving these triangles, that's a component.
+
+19 "Gokirmak, Ali" (3436017152)
+00:01:37.560 --> 00:01:41.100
+It is not a wire that is drawn.
+
+20 "Gokirmak, Ali" (3436017152)
+00:01:41.100 --> 00:01:44.790
+In a triangle with 5 other wires sticking out of it.
+
+21 "Gokirmak, Ali" (3436017152)
+00:01:44.790 --> 00:01:50.040
+This is a component. Yes. People do make.
+
+22 "Gokirmak, Ali" (3436017152)
+00:01:50.040 --> 00:01:56.550
+Interesting mistakes, so I have to clarify it as much as possible. So if this is the case.
+
+23 "Gokirmak, Ali" (3436017152)
+00:01:56.550 --> 00:02:01.290
+For example, if I have a water supply.
+
+24 "Gokirmak, Ali" (3436017152)
+00:02:01.290 --> 00:02:11.580
+Please see, I have a 9 voltage supply.
+
+25 "Gokirmak, Ali" (3436017152)
+00:02:11.580 --> 00:02:18.090
+Connected to a 1 on Resistor.
+
+26 "Gokirmak, Ali" (3436017152)
+00:02:18.090 --> 00:02:24.630
+How much time do I expect to run through this? 1? On resistance?
+
+27 "Gokirmak, Ali" (3436017152)
+00:02:24.630 --> 00:02:32.280
+Finance why okay, let's assume that the bottom is my reference.
+
+28 "Gokirmak, Ali" (3436017152)
+00:02:32.280 --> 00:02:36.570
+The bottom is my reference I said this is a 0 bolts, right?
+
+29 "Gokirmak, Ali" (3436017152)
+00:02:36.570 --> 00:02:42.360
+It's an ideal wire. So what is the voltage here on this corner?
+
+30 "Gokirmak, Ali" (3436017152)
+00:02:42.360 --> 00:02:48.060
+What is the voltage here on this corner?
+
+31 "Gokirmak, Ali" (3436017152)
+00:02:48.060 --> 00:02:53.430
+What does the voltage up here? What is the voltage up here?
+
+32 "Gokirmak, Ali" (3436017152)
+00:02:56.490 --> 00:03:01.260
+So, what is the voltage difference that is appearing across this resistor Delta week?
+
+33 "Gokirmak, Ali" (3436017152)
+00:03:04.980 --> 00:03:08.310
+It is 9-0, right? We are.
+
+34 "Gokirmak, Ali" (3436017152)
+00:03:08.310 --> 00:03:12.480
+Measuring it from the top to the bottom.
+
+35 "Gokirmak, Ali" (3436017152)
+00:03:12.480 --> 00:03:19.650
+Because I am drawing my current in this direction. Okay let's call this.
+
+36 "Gokirmak, Ali" (3436017152)
+00:03:19.650 --> 00:03:24.750
+I1, so I want equals to.
+
+37 "Gokirmak, Ali" (3436017152)
+00:03:24.750 --> 00:03:32.550
+9 walls -0 waltz, divided by.
+
+38 "Gokirmak, Ali" (3436017152)
+00:03:32.550 --> 00:03:39.450
+Delta V2 items are so I, is that you are.
+
+39 "Gokirmak, Ali" (3436017152)
+00:03:39.450 --> 00:03:49.380
+Which is well, that makes i1 equals to 9.
+
+40 "Gokirmak, Ali" (3436017152)
+00:03:49.380 --> 00:03:55.380
+Okay, so your partner decided that he is not going to measure.
+
+41 "Gokirmak, Ali" (3436017152)
+00:03:55.380 --> 00:03:58.860
+In that direction is going to measure the current in this direction.
+
+42 "Gokirmak, Ali" (3436017152)
+00:03:58.860 --> 00:04:02.520
+And instead of calling it, I want this article, I, to.
+
+43 "Gokirmak, Ali" (3436017152)
+00:04:02.520 --> 00:04:10.650
+What is i2 negative? Right? Because the direction of that arrow means something.
+
+44 "Gokirmak, Ali" (3436017152)
+00:04:10.650 --> 00:04:14.310
+The current flow has a direction it's like waterfall.
+
+45 "Gokirmak, Ali" (3436017152)
+00:04:14.310 --> 00:04:18.120
+So, how would you do that? You would say that I, to.
+
+46 "Gokirmak, Ali" (3436017152)
+00:04:18.120 --> 00:04:21.810
+Equals to the voltage.
+
+47 "Gokirmak, Ali" (3436017152)
+00:04:21.810 --> 00:04:27.449
+Here 0-the voltage there.
+
+48 "Gokirmak, Ali" (3436017152)
+00:04:27.449 --> 00:04:31.559
+You go from the base of the arrow to the tip of the arrow, right?
+
+49 "Gokirmak, Ali" (3436017152)
+00:04:31.559 --> 00:04:35.639
+-9 walls divided by 1 on.
+
+50 "Gokirmak, Ali" (3436017152)
+00:04:35.639 --> 00:04:44.939
+That it gets you a negative 9 amps. Is that cool?
+
+51 "Gokirmak, Ali" (3436017152)
+00:04:44.939 --> 00:04:48.779
+Okay. All right. Let's see.
+
+52 "Gokirmak, Ali" (3436017152)
+00:04:48.779 --> 00:04:57.149
+What is the current running through the supply in this direction? I'll call this. I tree.
+
+53 "Gokirmak, Ali" (3436017152)
+00:05:02.999 --> 00:05:14.759
+Can I apply all law to a power supply? It's an ideal supply. Doesn't have any resistance.
+
+54 "Gokirmak, Ali" (3436017152)
+00:05:19.229 --> 00:05:33.719
+So, how can I calculate the current running through the supply? You guys are convinced that I won is 9 AMS.
+
+55 "Gokirmak, Ali" (3436017152)
+00:05:33.719 --> 00:05:39.329
+Where are these charges coming from? Right?
+
+56 "Gokirmak, Ali" (3436017152)
+00:05:39.329 --> 00:05:42.809
+So, if there is, I want coming down like this.
+
+57 "Gokirmak, Ali" (3436017152)
+00:05:42.809 --> 00:05:52.979
+This is also i1 does this mean that this is also.
+
+58 "Gokirmak, Ali" (3436017152)
+00:05:52.979 --> 00:06:01.169
+That means that this is also on 1, right? Because after going through the resistor, the current needs to continue.
+
+59 "Gokirmak, Ali" (3436017152)
+00:06:01.169 --> 00:06:05.519
+So, I have a single loop here, so the current needs to loop around.
+
+60 "Gokirmak, Ali" (3436017152)
+00:06:05.519 --> 00:06:09.959
+That this is what we would call a closed circuit.
+
+61 "Gokirmak, Ali" (3436017152)
+00:06:09.959 --> 00:06:18.269
+In order to get a flow of charges, you need to have a closed circuit because in this course the devices that we deal with.
+
+62 "Gokirmak, Ali" (3436017152)
+00:06:18.269 --> 00:06:22.529
+Will not store charge you will not store net charge.
+
+63 "Gokirmak, Ali" (3436017152)
+00:06:22.529 --> 00:06:26.099
+I should say so no net charged storage.
+
+64 "Gokirmak, Ali" (3436017152)
+00:06:38.099 --> 00:06:43.439
+So, what comes in must come out that makes sense.
+
+65 "Gokirmak, Ali" (3436017152)
+00:06:46.589 --> 00:06:50.099
+Can I ask you another question? Okay.
+
+66 "Gokirmak, Ali" (3436017152)
+00:07:04.259 --> 00:07:10.229
+Let's assume that I have 1 on here.
+
+67 "Gokirmak, Ali" (3436017152)
+00:07:10.229 --> 00:07:22.709
+To own here and 3 on here and I want to know the current flowing through each of these elements.
+
+68 "Gokirmak, Ali" (3436017152)
+00:07:38.939 --> 00:07:49.709
+How can we calculate this?
+
+69 "Gokirmak, Ali" (3436017152)
+00:07:49.709 --> 00:07:57.299
+Okay.
+
+70 "Gokirmak, Ali" (3436017152)
+00:07:57.299 --> 00:08:00.509
+Let's assume that here, I have a reference.
+
+71 "Gokirmak, Ali" (3436017152)
+00:08:00.509 --> 00:08:07.679
+That means that this voltage is here 0 volts right?
+
+72 "Gokirmak, Ali" (3436017152)
+00:08:07.679 --> 00:08:14.939
+Okay, what is the voltage on this corner?
+
+73 "Gokirmak, Ali" (3436017152)
+00:08:14.939 --> 00:08:17.969
+Okay, I have 9 walls.
+
+74 "Gokirmak, Ali" (3436017152)
+00:08:17.969 --> 00:08:23.669
+That is applied from this point to this point.
+
+75 "Gokirmak, Ali" (3436017152)
+00:08:23.669 --> 00:08:31.019
+How much resistance do I have between my 9 Volt point and 0 point.
+
+76 "Gokirmak, Ali" (3436017152)
+00:08:31.019 --> 00:08:38.669
+6, why because I have only a single branch.
+
+77 "Gokirmak, Ali" (3436017152)
+00:08:38.669 --> 00:08:42.659
+Right. So if the current is entering from here.
+
+78 "Gokirmak, Ali" (3436017152)
+00:08:42.659 --> 00:08:47.249
+It needs to go through this register 1 on resisted and 2 on.
+
+79 "Gokirmak, Ali" (3436017152)
+00:08:47.249 --> 00:08:50.849
+And 3 home resistor, and it needs to return back to my supply rate.
+
+80 "Gokirmak, Ali" (3436017152)
+00:08:54.539 --> 00:08:57.899
+The current is common in all of these resistors.
+
+81 "Gokirmak, Ali" (3436017152)
+00:08:57.899 --> 00:09:08.849
+So, let me call this. I not so, if that is the case, how does 3 and 4 release.
+
+82 "Gokirmak, Ali" (3436017152)
+00:09:08.849 --> 00:09:12.479
+They are equal, so I not equals to. I want.
+
+83 "Gokirmak, Ali" (3436017152)
+00:09:12.479 --> 00:09:19.829
+It goes to, he goes to who's the iPhone.
+
+84 "Gokirmak, Ali" (3436017152)
+00:09:19.829 --> 00:09:26.069
+So, I want to write the arms law for the 1st Resistor. I will call the delta V.
+
+85 "Gokirmak, Ali" (3436017152)
+00:09:26.069 --> 00:09:30.149
+1, what is that? Do we want equal to.
+
+86 "Gokirmak, Ali" (3436017152)
+00:09:35.339 --> 00:09:39.629
+On current times the resistance value, right?
+
+87 "Gokirmak, Ali" (3436017152)
+00:09:39.629 --> 00:09:44.399
+What is my current I labeled it as 0.
+
+88 "Gokirmak, Ali" (3436017152)
+00:09:44.399 --> 00:09:52.799
+Right, no, but I want to just write it. I just want to write the formula for it.
+
+89 "Gokirmak, Ali" (3436017152)
+00:09:52.799 --> 00:09:55.799
+So, it's 0, at times.
+
+90 "Gokirmak, Ali" (3436017152)
+00:09:55.799 --> 00:10:01.559
+Uh, what is the value for the R.
+
+91 "Gokirmak, Ali" (3436017152)
+00:10:01.559 --> 00:10:06.239
+Okay, what about the delta V for the 2nd 1 I'll tell you too.
+
+92 "Gokirmak, Ali" (3436017152)
+00:10:12.209 --> 00:10:17.399
+The current is why not?
+
+93 "Gokirmak, Ali" (3436017152)
+00:10:17.399 --> 00:10:22.889
+What about the resistor value?
+
+94 "Gokirmak, Ali" (3436017152)
+00:10:22.889 --> 00:10:32.399
+Okay, what about the 3rd 1. okay. I am writing it like this right?
+
+95 "Gokirmak, Ali" (3436017152)
+00:10:32.399 --> 00:10:36.959
+I am following the direction of my arrow. Like, my current is following in this direction.
+
+96 "Gokirmak, Ali" (3436017152)
+00:10:36.959 --> 00:10:40.769
+So, I have the positive at the base of my arrow.
+
+97 "Gokirmak, Ali" (3436017152)
+00:10:40.769 --> 00:10:46.169
+A negative at the tip of my arrow. This is called passive sign convention.
+
+98 "Gokirmak, Ali" (3436017152)
+00:10:46.169 --> 00:10:50.219
+So that's a victory.
+
+99 "Gokirmak, Ali" (3436017152)
+00:10:58.109 --> 00:11:01.739
+Okay, so if I go from.
+
+100 "Gokirmak, Ali" (3436017152)
+00:11:01.739 --> 00:11:06.809
+Starting from the 0 waltz here. What would you say? The voltages here?
+
+101 "Gokirmak, Ali" (3436017152)
+00:11:10.889 --> 00:11:17.039
+I start from 0, I increased my voltage by Delta v3 right?
+
+102 "Gokirmak, Ali" (3436017152)
+00:11:17.039 --> 00:11:22.949
+So, that location is Delta v3. What is the absolute voltage here?
+
+103 "Gokirmak, Ali" (3436017152)
+00:11:31.109 --> 00:11:36.989
+It is Delta v3+V 2.
+
+104 "Gokirmak, Ali" (3436017152)
+00:11:36.989 --> 00:11:43.949
+Right because I had a voltage difference and I added another Walter's difference on top of it.
+
+105 "Gokirmak, Ali" (3436017152)
+00:11:43.949 --> 00:11:56.699
+What is the voltage up here in terms of the activities? Right? It was Delta victory.
+
+106 "Gokirmak, Ali" (3436017152)
+00:11:56.699 --> 00:12:04.619
+Plus now we're gonna add that the v1.
+
+107 "Gokirmak, Ali" (3436017152)
+00:12:04.619 --> 00:12:09.329
+So, we went from 0 waltz to the 9 vault node.
+
+108 "Gokirmak, Ali" (3436017152)
+00:12:09.329 --> 00:12:14.519
+And said that it should be equal to the sum of all these voltage drops.
+
+109 "Gokirmak, Ali" (3436017152)
+00:12:14.519 --> 00:12:22.799
+Across these resistors make sense. So fine. Yeah.
+
+110 "Gokirmak, Ali" (3436017152)
+00:12:22.799 --> 00:12:29.849
+Hello.
+
+111 "Gokirmak, Ali" (3436017152)
+00:12:29.849 --> 00:12:38.159
+Hm.
+
+112 "Gokirmak, Ali" (3436017152)
+00:12:41.159 --> 00:12:45.599
+Positive sign means that it is higher, right?
+
+113 "Gokirmak, Ali" (3436017152)
+00:12:45.599 --> 00:12:49.709
+Of course, the can come out to be a negative number.
+
+114 "Gokirmak, Ali" (3436017152)
+00:12:49.709 --> 00:12:53.729
+But Walter's difference is measured from positive to the negative from.
+
+115 "Gokirmak, Ali" (3436017152)
+00:12:53.729 --> 00:12:59.249
+That's the convention, so if I were to add these 3.
+
+116 "Gokirmak, Ali" (3436017152)
+00:12:59.249 --> 00:13:09.059
+That's what would that be equal to.
+
+117 "Gokirmak, Ali" (3436017152)
+00:13:12.209 --> 00:13:15.419
+It's going to be 6 homes.
+
+118 "Gokirmak, Ali" (3436017152)
+00:13:15.419 --> 00:13:21.539
+Units are very important. I not. And that is equal to.
+
+119 "Gokirmak, Ali" (3436017152)
+00:13:25.889 --> 00:13:33.689
+9 waltz -0 loss, right? So, if that is the case, can you calculate? I not.
+
+120 "Gokirmak, Ali" (3436017152)
+00:13:46.259 --> 00:13:49.559
+So, it's gonna be 3 over 2.
+
+121 "Gokirmak, Ali" (3436017152)
+00:13:49.559 --> 00:13:53.669
+Okay.
+
+122 "Gokirmak, Ali" (3436017152)
+00:13:56.669 --> 00:14:02.129
+Is it clear so far? Let's do.
+
+123 "Gokirmak, Ali" (3436017152)
+00:14:02.129 --> 00:14:08.879
+Instead of calculating it this way, let's calculate the equivalent resistance of the serious combination.
+
+124 "Gokirmak, Ali" (3436017152)
+00:14:08.879 --> 00:14:12.599
+How did we calculate the current resistance in a serious combination?
+
+125 "Gokirmak, Ali" (3436017152)
+00:14:17.069 --> 00:14:29.849
+So, I'm gonna draw my circuit again. I'll say that this is 9 walls and this is my articles. So, how do I calculate my article?
+
+126 "Gokirmak, Ali" (3436017152)
+00:14:29.849 --> 00:14:34.559
+There's nothing branching out. Everything is a single branch, right? So.
+
+127 "Gokirmak, Ali" (3436017152)
+00:14:34.559 --> 00:14:39.299
+It's going to be the sum of the resistors. Okay. 1 on.
+
+128 "Gokirmak, Ali" (3436017152)
+00:14:39.299 --> 00:14:45.299
++2 OEMs +3 homes, which makes.
+
+129 "Gokirmak, Ali" (3436017152)
+00:14:45.299 --> 00:14:51.869
+6 homes. Okay. Let's calculate our. I not.
+
+130 "Gokirmak, Ali" (3436017152)
+00:14:51.869 --> 00:15:03.689
+That is the current that is running through this loop. What is the voltage difference across the equivalence resistance?
+
+131 "Gokirmak, Ali" (3436017152)
+00:15:03.689 --> 00:15:09.929
+If this is my reference here, this is 0 volts, 9 walls and 9 walls here.
+
+132 "Gokirmak, Ali" (3436017152)
+00:15:15.269 --> 00:15:24.659
+9 months across the register, so Delta V equals to 9 walls that is equal to times are equivalent right?
+
+133 "Gokirmak, Ali" (3436017152)
+00:15:24.659 --> 00:15:29.909
+So, I notice then what 9 was divided by 6 homes.
+
+134 "Gokirmak, Ali" (3436017152)
+00:15:34.739 --> 00:15:40.739
+Did you work out the same way? Yeah.
+
+135 "Gokirmak, Ali" (3436017152)
+00:15:40.739 --> 00:15:45.449
+Okay, so far, so good.
+
+136 "Gokirmak, Ali" (3436017152)
+00:15:48.569 --> 00:16:08.569
+Okay, let's change a little bit.
+
+137 "Gokirmak, Ali" (3436017152)
+00:16:08.569 --> 00:16:19.139
+You are asked to calculate this current I.
+
+138 "Gokirmak, Ali" (3436017152)
+00:16:22.169 --> 00:16:29.609
+How would you go about calculating it? What do we need to know?
+
+139 "Gokirmak, Ali" (3436017152)
+00:16:29.609 --> 00:16:38.579
+To calculate the current in a resistor yeah, if we know the voltage difference.
+
+140 "Gokirmak, Ali" (3436017152)
+00:16:38.579 --> 00:16:42.329
+And the resistance, we can calculate that current.
+
+141 "Gokirmak, Ali" (3436017152)
+00:16:42.329 --> 00:16:47.849
+So, what we want to know is this difference, right?
+
+142 "Gokirmak, Ali" (3436017152)
+00:16:47.849 --> 00:16:57.689
+Or I could just leave with, right because if I.
+
+143 "Gokirmak, Ali" (3436017152)
+00:16:57.689 --> 00:17:02.969
+Show the + and - and have the voltage there means that it is the difference between.
+
+144 "Gokirmak, Ali" (3436017152)
+00:17:02.969 --> 00:17:10.529
+These 2 points, can you guys calculate this? 1?
+
+145 "Gokirmak, Ali" (3436017152)
+00:17:10.529 --> 00:17:17.339
+Why is it here? Why do the Walter just cancel each other?
+
+146 "Gokirmak, Ali" (3436017152)
+00:17:21.569 --> 00:17:27.779
+Charts the voltage levels, right? Potential that. Okay.
+
+147 "Gokirmak, Ali" (3436017152)
+00:17:27.779 --> 00:17:33.059
+Let's go through this step by step. I put a reference at the bottom.
+
+148 "Gokirmak, Ali" (3436017152)
+00:17:33.059 --> 00:17:40.349
+I don't have to, but I did what is the voltage of my reference?
+
+149 "Gokirmak, Ali" (3436017152)
+00:17:40.349 --> 00:17:46.709
+What is the voltage here? What is the voltage here?
+
+150 "Gokirmak, Ali" (3436017152)
+00:17:46.709 --> 00:17:51.749
+What about here? What about here?
+
+151 "Gokirmak, Ali" (3436017152)
+00:17:56.849 --> 00:18:00.239
+So, what is the voltage defense react?
+
+152 "Gokirmak, Ali" (3436017152)
+00:18:05.009 --> 00:18:14.699
+So, the current I equals to we X over 1:1:which is.
+
+153 "Gokirmak, Ali" (3436017152)
+00:18:14.699 --> 00:18:22.229
+Is it good?
+
+154 "Gokirmak, Ali" (3436017152)
+00:18:25.289 --> 00:18:30.659
+Okay easy. All right. Let's get harder than.
+
+155 "Gokirmak, Ali" (3436017152)
+00:18:34.829 --> 00:18:51.689
+I want you to remain quiet and solve this all by yourself.
+
+156 "Gokirmak, Ali" (3436017152)
+00:18:51.689 --> 00:19:03.269
+1st, I would like to talk with.
+
+157 "Gokirmak, Ali" (3436017152)
+00:19:37.769 --> 00:19:48.269
+How is this different than the previous case? 1 of them is flipped.
+
+158 "Gokirmak, Ali" (3436017152)
+00:19:48.269 --> 00:19:58.019
+Okay, so if you assume that the bottom is your reference again.
+
+159 "Gokirmak, Ali" (3436017152)
+00:19:58.019 --> 00:20:07.529
+What does the voltage 0 walls on this call corner here?
+
+160 "Gokirmak, Ali" (3436017152)
+00:20:07.529 --> 00:20:15.629
+On this corner here, top left.
+
+161 "Gokirmak, Ali" (3436017152)
+00:20:15.629 --> 00:20:19.499
+Upright negative 9.
+
+162 "Gokirmak, Ali" (3436017152)
+00:20:19.499 --> 00:20:24.209
+Why is that? Polarity is flipped.
+
+163 "Gokirmak, Ali" (3436017152)
+00:20:24.209 --> 00:20:32.669
+Okay, so what does it say for IV then? Right? Starting voltage.
+
+164 "Gokirmak, Ali" (3436017152)
+00:20:32.669 --> 00:20:38.579
+Ending voltage starting voltage is 9 walls ending voltages.
+
+165 "Gokirmak, Ali" (3436017152)
+00:20:38.579 --> 00:20:46.469
+-9 volts divided by the resistance value, right?
+
+166 "Gokirmak, Ali" (3436017152)
+00:20:46.469 --> 00:20:51.239
+That makes 18.
+
+167 "Gokirmak, Ali" (3436017152)
+00:20:57.989 --> 00:21:03.929
+So, what is the voltage drop across that resisted again?
+
+168 "Gokirmak, Ali" (3436017152)
+00:21:03.929 --> 00:21:07.529
+18 months. Okay. So.
+
+169 "Gokirmak, Ali" (3436017152)
+00:21:07.529 --> 00:21:13.559
+If I were to calculate the voltage drops.
+
+170 "Gokirmak, Ali" (3436017152)
+00:21:13.559 --> 00:21:18.029
+I'd say assume that I am looking at a voltage drop here.
+
+171 "Gokirmak, Ali" (3436017152)
+00:21:18.029 --> 00:21:26.849
+That's only 1 Delta.
+
+172 "Gokirmak, Ali" (3436017152)
+00:21:26.849 --> 00:21:32.789
+That'll be 3 if I go around this loop.
+
+173 "Gokirmak, Ali" (3436017152)
+00:21:32.789 --> 00:21:36.239
+And summing all the voltage drops.
+
+174 "Gokirmak, Ali" (3436017152)
+00:21:36.239 --> 00:21:44.609
+I would say that to be 1.
+
+175 "Gokirmak, Ali" (3436017152)
+00:21:44.609 --> 00:21:48.119
+Plus That'll be 2.
+
+176 "Gokirmak, Ali" (3436017152)
+00:21:48.119 --> 00:21:58.019
+That'll be tree I went from this point to this point from this point to this point and this point to this point.
+
+177 "Gokirmak, Ali" (3436017152)
+00:21:58.019 --> 00:22:05.699
+I sound old, the voltage drops. What should that be equal to.
+
+178 "Gokirmak, Ali" (3436017152)
+00:22:13.079 --> 00:22:18.419
+When you go around the closed loop and you arrive in the same location.
+
+179 "Gokirmak, Ali" (3436017152)
+00:22:18.419 --> 00:22:24.749
+The voltage drops build at the 0.
+
+180 "Gokirmak, Ali" (3436017152)
+00:22:24.749 --> 00:22:29.609
+Let's do that to see if that is the case. What is my Delta? V1.
+
+181 "Gokirmak, Ali" (3436017152)
+00:22:33.389 --> 00:22:37.769
+Is it look at the polarity of my data v1 and the polarity of the supply.
+
+182 "Gokirmak, Ali" (3436017152)
+00:22:42.749 --> 00:22:48.059
+All right look at this and look at this.
+
+183 "Gokirmak, Ali" (3436017152)
+00:22:48.059 --> 00:22:53.639
+So 1 is 1 negative 9 walls.
+
+184 "Gokirmak, Ali" (3436017152)
+00:22:53.639 --> 00:22:58.919
+What is that v2? We calculated that.
+
+185 "Gokirmak, Ali" (3436017152)
+00:22:58.919 --> 00:23:04.679
+What is that the way to 18 months? Right? We know the current 18 apps.
+
+186 "Gokirmak, Ali" (3436017152)
+00:23:13.439 --> 00:23:23.969
+What about the retreat? Is it.
+
+187 "Gokirmak, Ali" (3436017152)
+00:23:29.129 --> 00:23:42.599
+Is that true?
+
+188 "Gokirmak, Ali" (3436017152)
+00:23:42.599 --> 00:23:47.729
+-9 volts +18 times 1 on that gives you what.
+
+189 "Gokirmak, Ali" (3436017152)
+00:23:54.689 --> 00:23:58.349
+18 walts -9.
+
+190 "Gokirmak, Ali" (3436017152)
+00:23:58.349 --> 00:24:02.429
+Is that 0? Yeah.
+
+191 "Gokirmak, Ali" (3436017152)
+00:24:02.429 --> 00:24:11.789
+Uh, because the way that I am going, I am going from.
+
+192 "Gokirmak, Ali" (3436017152)
+00:24:11.789 --> 00:24:16.229
+This point to this point, and I am calculated in voltage drop.
+
+193 "Gokirmak, Ali" (3436017152)
+00:24:16.229 --> 00:24:21.959
+But the water is increasing, right?
+
+194 "Gokirmak, Ali" (3436017152)
+00:24:21.959 --> 00:24:27.389
+So, if your voltage is increasing 9 walls, it means that the drop is negative. 9.
+
+195 "Gokirmak, Ali" (3436017152)
+00:24:27.389 --> 00:24:32.459
+And when you are going from this point here, at this point.
+
+196 "Gokirmak, Ali" (3436017152)
+00:24:32.459 --> 00:24:37.469
+The resisted does drop the voltage, right?
+
+197 "Gokirmak, Ali" (3436017152)
+00:24:37.469 --> 00:24:42.989
+Okay, do you know what this is known as.
+
+198 "Gokirmak, Ali" (3436017152)
+00:24:42.989 --> 00:24:52.679
+Your costs because voltage law.
+
+199 "Gokirmak, Ali" (3436017152)
+00:24:52.679 --> 00:24:58.439
+Which means that in any closed loop, it doesn't matter which, which way if you arrive in the same location.
+
+200 "Gokirmak, Ali" (3436017152)
+00:24:58.439 --> 00:25:03.329
+You are at the same height, or are you are at the same voltage?
+
+201 "Gokirmak, Ali" (3436017152)
+00:25:03.329 --> 00:25:07.859
+For example, if you go around campus, assume that we have some.
+
+202 "Gokirmak, Ali" (3436017152)
+00:25:07.859 --> 00:25:11.159
+No hills and valleys and whatever.
+
+203 "Gokirmak, Ali" (3436017152)
+00:25:11.159 --> 00:25:19.859
+And then you are walking in any complex way that you, you walked.
+
+204 "Gokirmak, Ali" (3436017152)
+00:25:19.859 --> 00:25:23.219
+Sometimes go up a hill, you sometimes come down the hill.
+
+205 "Gokirmak, Ali" (3436017152)
+00:25:23.219 --> 00:25:26.489
+But if you are in the same position, at the end.
+
+206 "Gokirmak, Ali" (3436017152)
+00:25:26.489 --> 00:25:32.159
+Your net change in height is 0, does that make sense?
+
+207 "Gokirmak, Ali" (3436017152)
+00:25:36.929 --> 00:25:43.229
+Okay, it is a little to trivial with a single loop like this, but it helps when you have a complex situation.
+
+208 "Gokirmak, Ali" (3436017152)
+00:25:43.229 --> 00:25:59.069
+Yeah, so in every the drop will be negative.
+
+209 "Gokirmak, Ali" (3436017152)
+00:25:59.069 --> 00:26:05.189
+So many Mm hmm. Look at another example.
+
+210 "Gokirmak, Ali" (3436017152)
+00:26:39.749 --> 00:26:48.089
+It's calculates this current here called the sign ons.
+
+211 "Gokirmak, Ali" (3436017152)
+00:27:11.399 --> 00:27:14.489
+If you want to use the kickoffs voltage law.
+
+212 "Gokirmak, Ali" (3436017152)
+00:27:14.489 --> 00:27:20.159
+We will say we can sum all the voltage drops.
+
+213 "Gokirmak, Ali" (3436017152)
+00:27:20.159 --> 00:27:28.649
+And said it equal to 0 So assume that.
+
+214 "Gokirmak, Ali" (3436017152)
+00:27:28.649 --> 00:27:32.009
+I declared this point as my reference here.
+
+215 "Gokirmak, Ali" (3436017152)
+00:27:32.009 --> 00:27:37.169
+I don't have to, but I did.
+
+216 "Gokirmak, Ali" (3436017152)
+00:27:37.169 --> 00:27:40.409
+Starting from this point going here.
+
+217 "Gokirmak, Ali" (3436017152)
+00:27:40.409 --> 00:27:47.999
+How much does the voltage drop they get in 1 Walt.
+
+218 "Gokirmak, Ali" (3436017152)
+00:27:47.999 --> 00:27:52.709
+Because as you were going in our loop, we entered at the negative terminal, right?
+
+219 "Gokirmak, Ali" (3436017152)
+00:27:57.839 --> 00:28:02.549
+So, it's negative 1, Walt. Okay. And then from going from this point.
+
+220 "Gokirmak, Ali" (3436017152)
+00:28:02.549 --> 00:28:06.389
+To this point, how much did we drop in voltage.
+
+221 "Gokirmak, Ali" (3436017152)
+00:28:09.659 --> 00:28:13.169
+Again, we encountered a negative sign. 1st right?
+
+222 "Gokirmak, Ali" (3436017152)
+00:28:13.169 --> 00:28:19.169
+So the drop is negative 2 volts.
+
+223 "Gokirmak, Ali" (3436017152)
+00:28:19.169 --> 00:28:22.649
+Now, going from this middle node to the top right? Corner.
+
+224 "Gokirmak, Ali" (3436017152)
+00:28:22.649 --> 00:28:26.729
+How much are we dropping.
+
+225 "Gokirmak, Ali" (3436017152)
+00:28:26.729 --> 00:28:30.029
+Right. So we are dropping 5 volts.
+
+226 "Gokirmak, Ali" (3436017152)
+00:28:30.029 --> 00:28:43.229
+Posted firewalls drop. Now, we arrived here on the stop corner.
+
+227 "Gokirmak, Ali" (3436017152)
+00:28:43.229 --> 00:28:47.189
+And we want to go down here and we need to know this voltage drop here. Right?
+
+228 "Gokirmak, Ali" (3436017152)
+00:28:47.189 --> 00:28:55.769
+That Toby, I'll call this.
+
+229 "Gokirmak, Ali" (3436017152)
+00:28:55.769 --> 00:28:59.849
+So I say, plus we X.
+
+230 "Gokirmak, Ali" (3436017152)
+00:28:59.849 --> 00:29:04.979
+Because I went from the positive sign.
+
+231 "Gokirmak, Ali" (3436017152)
+00:29:04.979 --> 00:29:11.759
+So, the negative sign, right? As I was looking this equals to.
+
+232 "Gokirmak, Ali" (3436017152)
+00:29:11.759 --> 00:29:21.449
+Did we arrive in the same point when we arrive here? Is there any voltage drop between this point? At this point?
+
+233 "Gokirmak, Ali" (3436017152)
+00:29:21.449 --> 00:29:29.789
+No, it's an ideal wire, so it's equal potential. So, what is this equal to.
+
+234 "Gokirmak, Ali" (3436017152)
+00:29:29.789 --> 00:29:35.339
+0, nice round number. It's a joke.
+
+235 "Gokirmak, Ali" (3436017152)
+00:29:35.339 --> 00:29:41.519
+Thank you.
+
+236 "Gokirmak, Ali" (3436017152)
+00:29:41.519 --> 00:29:45.509
+So we need to do some math here. What is in terms of find out.
+
+237 "Gokirmak, Ali" (3436017152)
+00:29:52.649 --> 00:30:00.179
+Look at the direction of the arrow or not, it goes in this direction, right?
+
+238 "Gokirmak, Ali" (3436017152)
+00:30:00.179 --> 00:30:05.699
+So, it is going from the positive to the negative, right right.
+
+239 "Gokirmak, Ali" (3436017152)
+00:30:05.699 --> 00:30:11.009
+So we say we X equals to at times 2 homes.
+
+240 "Gokirmak, Ali" (3436017152)
+00:30:11.009 --> 00:30:16.619
+Because the direction of the arrow matches, the positive to negative, right? If it was reversed, we will put a negative sign.
+
+241 "Gokirmak, Ali" (3436017152)
+00:30:16.619 --> 00:30:19.619
+Okay, so we X is I not.
+
+242 "Gokirmak, Ali" (3436017152)
+00:30:19.619 --> 00:30:25.799
+Times jobs. So what is I not.
+
+243 "Gokirmak, Ali" (3436017152)
+00:30:32.459 --> 00:30:41.639
+What these add up to this is 2 walls, right?
+
+244 "Gokirmak, Ali" (3436017152)
+00:30:41.639 --> 00:30:45.359
+So, I articles to what you need to throw that to the other side.
+
+245 "Gokirmak, Ali" (3436017152)
+00:30:54.149 --> 00:30:58.139
+And what what do I do? Do I do it?
+
+246 "Gokirmak, Ali" (3436017152)
+00:31:01.559 --> 00:31:07.739
+What is negative towards divide by tombs? M.
+
+247 "Gokirmak, Ali" (3436017152)
+00:31:07.739 --> 00:31:16.739
+Units are extremely important if you're calculating a current and get units of voltage, it means that you made a mistake somewhere.
+
+248 "Gokirmak, Ali" (3436017152)
+00:31:16.739 --> 00:31:21.509
+And also order of magnitude is very important.
+
+249 "Gokirmak, Ali" (3436017152)
+00:31:21.509 --> 00:31:26.669
+If somebody promises you, 100,000 dollars salary and gives you 100 dollars per year.
+
+250 "Gokirmak, Ali" (3436017152)
+00:31:26.669 --> 00:31:31.889
+You will be upset. All right.
+
+251 "Gokirmak, Ali" (3436017152)
+00:31:31.889 --> 00:31:36.629
+So, it is not like, oh, it's just units. It means something.
+
+252 "Gokirmak, Ali" (3436017152)
+00:31:36.629 --> 00:31:39.869
+Are you good with this? Okay.
+
+253 "Gokirmak, Ali" (3436017152)
+00:31:39.869 --> 00:31:45.179
+So, water supplies, ideal, water supplies, give you a voltage difference.
+
+254 "Gokirmak, Ali" (3436017152)
+00:31:45.179 --> 00:31:49.889
+It is not the absolute voltage. Does it make sense?
+
+255 "Gokirmak, Ali" (3436017152)
+00:31:49.889 --> 00:31:55.529
+So, when we went up and around, we calculated a voltage what was the voltage here?
+
+256 "Gokirmak, Ali" (3436017152)
+00:31:55.529 --> 00:32:01.139
+At this bottom corner here 0 walls, what is the voltage up here?
+
+257 "Gokirmak, Ali" (3436017152)
+00:32:04.559 --> 00:32:08.789
+Tools because the voltage up here.
+
+258 "Gokirmak, Ali" (3436017152)
+00:32:08.789 --> 00:32:15.629
+Was 1, Walt, this voltage here was 3 volts.
+
+259 "Gokirmak, Ali" (3436017152)
+00:32:15.629 --> 00:32:32.249
+Was it so we increased from 0 to 1 Volt, right?
+
+260 "Gokirmak, Ali" (3436017152)
+00:32:32.249 --> 00:32:37.289
+Then from 1 would be 1 to 3 volts.
+
+261 "Gokirmak, Ali" (3436017152)
+00:32:37.289 --> 00:32:40.559
+And from 3 walls, we went down to minus tools.
+
+262 "Gokirmak, Ali" (3436017152)
+00:32:40.559 --> 00:32:45.449
+Because of the polarity of that ideal supply, you can think of them as batteries.
+
+263 "Gokirmak, Ali" (3436017152)
+00:32:45.449 --> 00:32:49.139
+You know, when you have a TV reboot, you have the double a batteries.
+
+264 "Gokirmak, Ali" (3436017152)
+00:32:49.139 --> 00:32:53.759
+We don't put them right? It doesn't work right?
+
+265 "Gokirmak, Ali" (3436017152)
+00:32:53.759 --> 00:33:00.059
+1 has to go up there on us to go down now, is some of the batteries, but it looks like they're both point in the same way.
+
+266 "Gokirmak, Ali" (3436017152)
+00:33:00.059 --> 00:33:07.769
+but basically what you are doing is then you are putting the two double a batteries in series 
+
+267 "Gokirmak, Ali" (3436017152)
+00:33:07.769 --> 00:33:12.779
+Cool. So fine. Yes. Okay.
+
+268 "Gokirmak, Ali" (3436017152)
+00:33:12.779 --> 00:33:17.819
+As you practice, this will become this natural. All right let's see.
+
+269 "Gokirmak, Ali" (3436017152)
+00:33:22.769 --> 00:33:34.859
+I have a 9 year old supply.
+
+270 "Gokirmak, Ali" (3436017152)
+00:33:34.859 --> 00:33:44.879
+And I have 2:1:on resistors. I want to know the current in the 1st results there.
+
+271 "Gokirmak, Ali" (3436017152)
+00:33:44.879 --> 00:33:50.189
+2nd resistor and I also want to know this current here.
+
+272 "Gokirmak, Ali" (3436017152)
+00:33:50.189 --> 00:34:10.189
+And this current here.
+
+273 "Gokirmak, Ali" (3436017152)
+00:34:10.189 --> 00:34:20.909
+What do I do?
+
+274 "Gokirmak, Ali" (3436017152)
+00:34:20.909 --> 00:34:27.149
+Find the total current full resistance.
+
+275 "Gokirmak, Ali" (3436017152)
+00:34:27.149 --> 00:34:34.139
+Go step by step and I declare this bottom as my reference.
+
+276 "Gokirmak, Ali" (3436017152)
+00:34:34.139 --> 00:34:40.259
+Yes, we can 0 falls. What is the Walter chair?
+
+277 "Gokirmak, Ali" (3436017152)
+00:34:40.259 --> 00:34:47.129
+What's the voltage here? It's the voltage of here.
+
+278 "Gokirmak, Ali" (3436017152)
+00:34:47.129 --> 00:34:51.419
+Here here.
+
+279 "Gokirmak, Ali" (3436017152)
+00:34:56.759 --> 00:35:00.329
+Do you know the voltage difference between the 1st, 1 on register?
+
+280 "Gokirmak, Ali" (3436017152)
+00:35:17.309 --> 00:35:23.099
+So, what is that to be 1? It's gonna be 9 walls.
+
+281 "Gokirmak, Ali" (3436017152)
+00:35:23.099 --> 00:35:28.889
+Minus firewalls 9 months.
+
+282 "Gokirmak, Ali" (3436017152)
+00:35:36.839 --> 00:35:48.269
+So you can calculate 1 yes.
+
+283 "Gokirmak, Ali" (3436017152)
+00:35:48.269 --> 00:36:00.239
+What does that want? How do I calculated.
+
+284 "Gokirmak, Ali" (3436017152)
+00:36:00.239 --> 00:36:11.039
+Voltage drop divided by the resistance. What about the 2nd, 1 i2?
+
+285 "Gokirmak, Ali" (3436017152)
+00:36:20.099 --> 00:36:25.829
+So, if I want an i2 or 9 each, what is.
+
+286 "Gokirmak, Ali" (3436017152)
+00:36:35.939 --> 00:36:39.299
+18 AMS why do you say that?
+
+287 "Gokirmak, Ali" (3436017152)
+00:36:47.669 --> 00:36:53.519
+You need to supply this I want current through the 1st resistance, right?
+
+288 "Gokirmak, Ali" (3436017152)
+00:36:53.519 --> 00:36:59.249
+I need to supply I took her through the 2nd resistance and where does this come from?
+
+289 "Gokirmak, Ali" (3436017152)
+00:36:59.249 --> 00:37:05.159
+You have some income, right? We cannot spend what you don't have.
+
+290 "Gokirmak, Ali" (3436017152)
+00:37:05.159 --> 00:37:13.019
+Into a balanced budget, you have to have income encourage.
+
+291 "Gokirmak, Ali" (3436017152)
+00:37:13.019 --> 00:37:19.169
+That satisfies the article.
+
+292 "Gokirmak, Ali" (3436017152)
+00:37:19.169 --> 00:37:24.989
+So you can say that I4 needs to be equal to.
+
+293 "Gokirmak, Ali" (3436017152)
+00:37:24.989 --> 00:37:32.549
+I for is the incoming current to this node here?
+
+294 "Gokirmak, Ali" (3436017152)
+00:37:32.549 --> 00:37:42.929
+It needs to equal to 1.
+
+295 "Gokirmak, Ali" (3436017152)
+00:37:42.929 --> 00:37:56.789
+I too. Does that make sense?
+
+296 "Gokirmak, Ali" (3436017152)
+00:37:56.789 --> 00:38:03.119
+So, we've calculated I wanna 9:2:9 M +9.
+
+297 "Gokirmak, Ali" (3436017152)
+00:38:03.119 --> 00:38:08.609
+The answer is 18 X. so what is this known as.
+
+298 "Gokirmak, Ali" (3436017152)
+00:38:12.120 --> 00:38:15.870
+Kickoffs current law kirchhoff's current law says.
+
+299 "Gokirmak, Ali" (3436017152)
+00:38:22.740 --> 00:38:28.260
+Says if you have a node and you have branches coming out of it.
+
+300 "Gokirmak, Ali" (3436017152)
+00:38:28.260 --> 00:38:32.910
+However, many and you have currents.
+
+301 "Gokirmak, Ali" (3436017152)
+00:38:32.910 --> 00:38:35.970
+Going out like this pointing out.
+
+302 "Gokirmak, Ali" (3436017152)
+00:38:35.970 --> 00:38:41.550
+Some of all the currents leaving.
+
+303 "Gokirmak, Ali" (3436017152)
+00:38:41.550 --> 00:38:54.390
+As to be 0, in this case, I said, I focused I want plus I, too, because I feel is drawn as accurate. That is.
+
+304 "Gokirmak, Ali" (3436017152)
+00:38:54.390 --> 00:39:02.520
+Arriving there, I could have written that as instead of I could have said.
+
+305 "Gokirmak, Ali" (3436017152)
+00:39:02.520 --> 00:39:07.410
+I have a current here that I label as I not.
+
+306 "Gokirmak, Ali" (3436017152)
+00:39:07.410 --> 00:39:10.890
+Leaving that note, then you would say.
+
+307 "Gokirmak, Ali" (3436017152)
+00:39:10.890 --> 00:39:19.560
+I not plus i1+I too, because 0.
+
+308 "Gokirmak, Ali" (3436017152)
+00:39:19.560 --> 00:39:26.190
+Kick off current law saying that all the currents leaving that note has the sum to 0.
+
+309 "Gokirmak, Ali" (3436017152)
+00:39:26.190 --> 00:39:35.340
+Because I don't have any way to store charges. There there is the charge generation or elimination.
+
+310 "Gokirmak, Ali" (3436017152)
+00:39:35.340 --> 00:39:39.390
+But I not in terms of i4.
+
+311 "Gokirmak, Ali" (3436017152)
+00:39:39.390 --> 00:39:48.720
+What is it? Right? So.
+
+312 "Gokirmak, Ali" (3436017152)
+00:39:48.720 --> 00:39:52.080
+I not is just negative.
+
+313 "Gokirmak, Ali" (3436017152)
+00:39:52.080 --> 00:39:56.850
+I for cause, I flipped the direction of the arrow.
+
+314 "Gokirmak, Ali" (3436017152)
+00:40:01.800 --> 00:40:10.800
+Is that cool? Still too easy? Yes. Oh, man.
+
+315 "Gokirmak, Ali" (3436017152)
+00:40:10.800 --> 00:40:30.800
+Ask is 1 it harder. I know. 1 world.
+
+316 "Gokirmak, Ali" (3436017152)
+00:40:30.800 --> 00:40:35.190
+1, on 2 homes, 3 homes.
+
+317 "Gokirmak, Ali" (3436017152)
+00:40:35.190 --> 00:40:38.370
+And say 4 walls, you.
+
+318 "Gokirmak, Ali" (3436017152)
+00:40:45.750 --> 00:40:48.930
+I would like to know is current here.
+
+319 "Gokirmak, Ali" (3436017152)
+00:41:02.550 --> 00:41:16.590
+What do you do cry.
+
+320 "Gokirmak, Ali" (3436017152)
+00:41:16.590 --> 00:41:26.130
+Don't cry every time.
+
+321 "Gokirmak, Ali" (3436017152)
+00:41:26.130 --> 00:41:29.160
+Okay, and let's take a reference. Okay.
+
+322 "Gokirmak, Ali" (3436017152)
+00:41:29.160 --> 00:41:33.030
+We pick a reference that's the rules.
+
+323 "Gokirmak, Ali" (3436017152)
+00:41:33.030 --> 00:41:39.150
+What is the voltage here voltage up here?
+
+324 "Gokirmak, Ali" (3436017152)
+00:41:43.050 --> 00:41:49.410
+What is the voltage down here on this bottom corner? What is the voltage up here?
+
+325 "Gokirmak, Ali" (3436017152)
+00:41:55.080 --> 00:42:02.700
+What is the voltage here? You need to confess.
+
+326 "Gokirmak, Ali" (3436017152)
+00:42:02.700 --> 00:42:11.670
+You don't know and if you don't know something, what do you do?
+
+327 "Gokirmak, Ali" (3436017152)
+00:42:11.670 --> 00:42:19.200
+Right away you labeled it with some thing like.
+
+328 "Gokirmak, Ali" (3436017152)
+00:42:19.200 --> 00:42:29.460
+And I know right we X and then you use the scariest thing that came out of Middle East.
+
+329 "Gokirmak, Ali" (3436017152)
+00:42:29.460 --> 00:42:34.980
+What does that algebra?
+
+330 "Gokirmak, Ali" (3436017152)
+00:42:34.980 --> 00:42:40.650
+Never heard of this joke before no, the scariest thing for a lot of students.
+
+331 "Gokirmak, Ali" (3436017152)
+00:42:40.650 --> 00:42:46.650
+Okay, so.
+
+332 "Gokirmak, Ali" (3436017152)
+00:42:46.650 --> 00:42:50.430
+Assuming that we can calculate.
+
+333 "Gokirmak, Ali" (3436017152)
+00:42:50.430 --> 00:42:58.560
+The different current I will label this 1 as I want and this 1 as i2.
+
+334 "Gokirmak, Ali" (3436017152)
+00:42:58.560 --> 00:43:07.440
+You could say that i1+I not plus i2 equals to what?
+
+335 "Gokirmak, Ali" (3436017152)
+00:43:07.440 --> 00:43:12.180
+Now, can we calculate each of these currents.
+
+336 "Gokirmak, Ali" (3436017152)
+00:43:12.180 --> 00:43:17.670
+Using the, the voltages that I have labeled.
+
+337 "Gokirmak, Ali" (3436017152)
+00:43:17.670 --> 00:43:28.020
+For example, what is starting voltage is what.
+
+338 "Gokirmak, Ali" (3436017152)
+00:43:28.020 --> 00:43:35.190
+The ex, what is the ending voltage for.
+
+339 "Gokirmak, Ali" (3436017152)
+00:43:35.190 --> 00:43:41.010
+That is my voltage difference right? Divided by the resistance value.
+
+340 "Gokirmak, Ali" (3436017152)
+00:43:41.010 --> 00:43:45.960
+What is the registered value? .
+
+341 "Gokirmak, Ali" (3436017152)
+00:43:45.960 --> 00:43:49.350
+What about I not what is my starting voltage?
+
+342 "Gokirmak, Ali" (3436017152)
+00:43:54.180 --> 00:44:01.980
+What is the ending voltage divided by.
+
+343 "Gokirmak, Ali" (3436017152)
+00:44:01.980 --> 00:44:05.730
++4 i2 starting voltage.
+
+344 "Gokirmak, Ali" (3436017152)
+00:44:09.120 --> 00:44:17.220
+Ending voltage divided by.
+
+345 "Gokirmak, Ali" (3436017152)
+00:44:17.220 --> 00:44:25.020
+This needs to equal to 1 equation, wanna know.
+
+346 "Gokirmak, Ali" (3436017152)
+00:44:25.020 --> 00:44:28.560
+Can you do it? How do you do it?
+
+347 "Gokirmak, Ali" (3436017152)
+00:44:35.730 --> 00:44:40.710
+Can I multiply both sides with OEMs and what would that do.
+
+348 "Gokirmak, Ali" (3436017152)
+00:44:44.580 --> 00:44:51.660
+I canceled the homes from the denominator because I can multiply both sides by ohms. Right? 0 times owns is what.
+
+349 "Gokirmak, Ali" (3436017152)
+00:44:51.660 --> 00:44:58.470
+0, okay so what do I have here?
+
+350 "Gokirmak, Ali" (3436017152)
+00:44:58.470 --> 00:45:03.600
+I have something divided by 1, something divided by 2 something divide by 3.
+
+351 "Gokirmak, Ali" (3436017152)
+00:45:03.600 --> 00:45:08.940
+Guys know, fractions those who did not know fractions.
+
+352 "Gokirmak, Ali" (3436017152)
+00:45:08.940 --> 00:45:17.400
+Did not arrive here, but they did arrive at. You can.
+
+353 "Gokirmak, Ali" (3436017152)
+00:45:17.400 --> 00:45:22.500
+Try to have a conversation with some of the math faculty you will know.
+
+354 "Gokirmak, Ali" (3436017152)
+00:45:22.500 --> 00:45:32.730
+Okay, so what do I do? Not everybody has to know fractions. I mean, it's not the most.
+
+355 "Gokirmak, Ali" (3436017152)
+00:45:32.730 --> 00:45:36.480
+What do you guys need to know? What do I do.
+
+356 "Gokirmak, Ali" (3436017152)
+00:45:41.340 --> 00:45:47.490
+I multiplied the 1st term by 8th term by.
+
+357 "Gokirmak, Ali" (3436017152)
+00:45:47.490 --> 00:45:53.490
+Turn my 2 that gets me what.
+
+358 "Gokirmak, Ali" (3436017152)
+00:45:53.490 --> 00:45:56.700
+6 x -6 walls.
+
+359 "Gokirmak, Ali" (3436017152)
+00:45:56.700 --> 00:45:59.910
+.
+
+360 "Gokirmak, Ali" (3436017152)
+00:45:59.910 --> 00:46:05.040
+-0 walls +2 weeks.
+
+361 "Gokirmak, Ali" (3436017152)
+00:46:05.040 --> 00:46:12.450
+-8 volts divided by.
+
+362 "Gokirmak, Ali" (3436017152)
+00:46:12.450 --> 00:46:17.610
+6, it goes to 0.
+
+363 "Gokirmak, Ali" (3436017152)
+00:46:20.670 --> 00:46:24.540
+Yes, okay. Now.
+
+364 "Gokirmak, Ali" (3436017152)
+00:46:24.540 --> 00:46:33.480
+Can I cross multiply 6:2:dATA science that goes away then? Right?
+
+365 "Gokirmak, Ali" (3436017152)
+00:46:33.480 --> 00:46:36.480
+So, what do we have here? How many is Lucy?
+
+366 "Gokirmak, Ali" (3436017152)
+00:46:40.710 --> 00:46:49.410
+How do you see? I see 6 X here.
+
+367 "Gokirmak, Ali" (3436017152)
+00:46:49.410 --> 00:46:57.420
+3 weeks here and 2 weeks here, how much does it make.
+
+368 "Gokirmak, Ali" (3436017152)
+00:46:57.420 --> 00:47:00.990
+11 okay, 11.
+
+369 "Gokirmak, Ali" (3436017152)
+00:47:00.990 --> 00:47:07.020
+Is the number it's a nice number.
+
+370 "Gokirmak, Ali" (3436017152)
+00:47:07.020 --> 00:47:17.880
+And then when we X equals to what? So we to.
+
+371 "Gokirmak, Ali" (3436017152)
+00:47:26.010 --> 00:47:34.050
+But the question is not asking for, why did we do this? Because you can relate to the X.
+
+372 "Gokirmak, Ali" (3436017152)
+00:47:34.050 --> 00:47:38.640
+Was a joke too. Okay.
+
+373 "Gokirmak, Ali" (3436017152)
+00:47:38.640 --> 00:47:45.930
+We X is what, what are we after.
+
+374 "Gokirmak, Ali" (3436017152)
+00:47:45.930 --> 00:47:50.610
+Why not? So, what is the X in terms of? What.
+
+375 "Gokirmak, Ali" (3436017152)
+00:47:54.780 --> 00:48:01.440
+Current times the resistance, so I think goes to.
+
+376 "Gokirmak, Ali" (3436017152)
+00:48:01.440 --> 00:48:04.800
+We, that is equal to.
+
+377 "Gokirmak, Ali" (3436017152)
+00:48:11.190 --> 00:48:17.700
+Which is 7, 11.
+
+378 "Gokirmak, Ali" (3436017152)
+00:48:17.700 --> 00:48:20.850
+Okay.
+
+379 "Gokirmak, Ali" (3436017152)
+00:48:20.850 --> 00:48:25.140
+What did we do in this approach that we took.
+
+380 "Gokirmak, Ali" (3436017152)
+00:48:25.140 --> 00:48:30.510
+What was the step by step? Technically used.
+
+381 "Gokirmak, Ali" (3436017152)
+00:48:30.510 --> 00:48:39.990
+We chose the reference, right? Then we labeled.
+
+382 "Gokirmak, Ali" (3436017152)
+00:48:43.860 --> 00:48:53.610
+Unknown voltages then what did we do.
+
+383 "Gokirmak, Ali" (3436017152)
+00:48:53.610 --> 00:49:03.300
+Cost current law, which is some, all the currents leaving and all the notes.
+
+384 "Gokirmak, Ali" (3436017152)
+00:49:03.300 --> 00:49:10.650
+To 0, in this case, we had only 1 note to calculate. So there was only 1 calculation.
+
+385 "Gokirmak, Ali" (3436017152)
+00:49:10.650 --> 00:49:20.550
+And what is this technique known as node voltage?
+
+386 "Gokirmak, Ali" (3436017152)
+00:49:20.550 --> 00:49:30.990
+Technique it works in very complex circuits, too.
+
+387 "Gokirmak, Ali" (3436017152)
+00:49:30.990 --> 00:49:42.090
+If you are able to label the known voltages an unknown voltages, you can construct all these equations.
+
+388 "Gokirmak, Ali" (3436017152)
+00:49:42.090 --> 00:49:48.390
+This was the ideal water supply, but there is also an ideal current supply.
+
+389 "Gokirmak, Ali" (3436017152)
+00:49:48.390 --> 00:50:00.600
+Okay, just 3rd, ideal cure supply can supply any current regardless of voltage.
+
+390 "Gokirmak, Ali" (3436017152)
+00:50:18.480 --> 00:50:26.580
+So the voltage can be 0, can be 1 can be negative 1. it can be negative infinity, positive infinity, whatever.
+
+391 "Gokirmak, Ali" (3436017152)
+00:50:26.580 --> 00:50:29.820
+Sometimes when I say whatever, it's serious as soon as 0.
+
+392 "Gokirmak, Ali" (3436017152)
+00:50:29.820 --> 00:50:36.780
+It doesn't have to be 0, it can be 0, an ideal current supply will supply the current.
+
+393 "Gokirmak, Ali" (3436017152)
+00:50:36.780 --> 00:50:42.510
+And we will do more exercises like this later today.
+
+394 "Gokirmak, Ali" (3436017152)
+00:50:42.510 --> 00:50:48.300
+Okay, if you have any questions I have office hours can walk with me.
+
+395 "Gokirmak, Ali" (3436017152)
+00:50:48.300 --> 00:50:53.490
+Thank you for coming Thank you.
